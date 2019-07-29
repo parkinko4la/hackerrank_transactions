@@ -1,0 +1,11 @@
+/* Styles.css */
+
+.transactions-table {
+  margin: 1em;
+  border: 1px solid grey;
+}
+
+.transaction-row td, .transaction-row th {
+  border: 1px solid gray;
+  padding: 10px;
+}
